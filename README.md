@@ -68,6 +68,10 @@ Changes:
 * Changed the messages to real life application of DSA
 * Changed the tool to calculate the prefix sum of a list
 
+---
+
+
+
 ### Video 5: Router
 
 [https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-1/router.ipynb]()
@@ -82,3 +86,18 @@ Changes:
 ![1760607041935](image/Video_5_Module_1_1.png)
 
 ![1760607096057](image/Video_5_Module_1_2.png)
+
+---
+
+### Video 6: Agent
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-1/agent.ipynb]()
+
+Learnt how to build a simple mathemtical expression solving **Agent**. It uses **ReAct Archiecture** in which model goes step by step recursively. The tools were repeatedly being called, as was the necessity for it.
+
+Changes:
+
+* Added new tools; **subtract()**, **power()**, **modulo()**
+* Gave a complex mathemtical expression with various different operators
+
+![1760609915149](image/Video_6_Module_1.png)
