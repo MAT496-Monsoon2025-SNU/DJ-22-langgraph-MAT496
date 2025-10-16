@@ -101,3 +101,18 @@ Changes:
 * Gave a complex mathemtical expression with various different operators
 
 ![1760609915149](image/Video_6_Module_1.png)
+
+---
+
+### Video 7: Agent with Memory
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-1/agent-memory.ipynb]()
+
+Learnt how to use **Agent** with **Memory**. Using **MemorySaver()**, we can create a checkpoint for the Agent and then store it in its memory. We can call the next command based on the output of the previous one using this. In **LangSmith Studio** this is not required as there is an in-built **persistence layer** which makes the Agent have memory by default using the **API** key.
+
+Changes:
+
+* Added the tools I had made in **agent.ipynb**
+* Made a **loop** that calls all the tools, calculating on the output of the previous call and a random number 
+
+![1760612379417](image/Video_7_Module_1.png)
