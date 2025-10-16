@@ -54,3 +54,16 @@ Changes:
 * Updated simple.py to contain the graph that was made in simple-graph.ipynb
 
 ![1760601860446](image/Video_3_Module_1.png)
+
+---
+
+### Video 4: Chain
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-1/chain.ipynb]()
+
+Learnt how to make **chains** by combining different concepts. Initially the messges are stored in a list, we also made a **tool**. Then the messages and tool are bound together in a graph to show a chain.
+
+Changes:
+
+* Changed the messages to real life application of DSA
+* Changed the tool to calculate the prefix sum of a list
