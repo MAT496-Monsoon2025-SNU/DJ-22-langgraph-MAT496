@@ -6,8 +6,6 @@
 
 ---
 
-
-
 [https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-0/basics.ipynb]()
 
 This was a basic intro to stuff we have already done before. Learnt what **LangGraph** means and how to setup **LangSmith Studio**, which is a **custom IDE** for viewing and testing agents.
@@ -16,11 +14,11 @@ Changes:
 
 * Changed the prompts in **basics.ipynb**
 
+---
+
 ## Module 1
 
 ---
-
-
 
 ### Video 1: Motivation
 
@@ -40,8 +38,6 @@ Changes:
 * Added 3 options instead of 2
 
 ---
-
-
 
 ### Video 3: LangSmith Studio
 
@@ -69,8 +65,6 @@ Changes:
 * Changed the tool to calculate the prefix sum of a list
 
 ---
-
-
 
 ### Video 5: Router
 
@@ -113,6 +107,23 @@ Learnt how to use **Agent** with **Memory**. Using **MemorySaver()**, we can cre
 Changes:
 
 * Added the tools I had made in **agent.ipynb**
-* Made a **loop** that calls all the tools, calculating on the output of the previous call and a random number 
+* Made a **loop** that calls all the tools, calculating on the output of the previous call and a random number
 
 ![1760612379417](image/Video_7_Module_1.png)
+
+---
+
+## Module 2
+
+---
+
+### Video 1: State Schema
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-2/state-schema.ipynb]()
+
+Learnt about typed state schemas, TypedDict, dataclass and Pydantic which allows all the nodes to share consistent contact with LangGraph.
+
+Changes:
+
+* Changed the conditional statement in graph
+* Added 3 options instead of 2
