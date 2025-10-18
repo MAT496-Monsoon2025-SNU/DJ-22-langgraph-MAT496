@@ -127,3 +127,16 @@ Changes:
 
 * Changed the conditional statement in graph
 * Added 3 options instead of 2
+
+---
+
+### Video 2: State Reducers
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-2/state-reduces.ipynb]()
+
+Learnt that **reducers** let sibling nodes to safely merge updates. **Annotated** keys can change between **overwrite**, **append** or **custom** **merge** without rewriting. 
+
+Changes:
+
+* Changed arithmetic operation and foo to val
+* Changed the messages to real life application of DSA
