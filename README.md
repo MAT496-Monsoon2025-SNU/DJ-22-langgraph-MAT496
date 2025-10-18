@@ -121,7 +121,7 @@ Changes:
 
 [https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-2/state-schema.ipynb]()
 
-Learnt about typed state schemas, TypedDict, dataclass and Pydantic which allows all the nodes to share consistent contact with LangGraph.
+Learnt about typed state schemas, **TypedDict**, **dataclass** and **Pydantic** which allows all the nodes to share consistent contact with **LangGraph**.
 
 Changes:
 
