@@ -134,9 +134,21 @@ Changes:
 
 [https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-2/state-reduces.ipynb]()
 
-Learnt that **reducers** let sibling nodes to safely merge updates. **Annotated** keys can change between **overwrite**, **append** or **custom** **merge** without rewriting. 
+Learnt that **reducers** let sibling nodes to safely merge updates. **Annotated** keys can change between **overwrite**, **append** or **custom** **merge** without rewriting.
 
 Changes:
 
 * Changed arithmetic operation and foo to val
 * Changed the messages to real life application of DSA
+
+---
+
+### Video 3: Multiple Schemas
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-2/multiple-schemas.ipynb]()
+
+Learnt that there are **Private** **States** and **Overall** **States**. Private allow the nodes to exchange temporary variables without affecting the final output. **Internal** **schemas** preserve all working fields for logic.
+
+Changes:
+
+* Added another **processing node** in between **node_1** and **node_3**
