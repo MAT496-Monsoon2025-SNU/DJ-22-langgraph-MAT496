@@ -152,3 +152,23 @@ Learnt that there are **Private** **States** and **Overall** **States**. Private
 Changes:
 
 * Added another **processing node** in between **node_1** and **node_3**
+
+---
+
+### Video 4: Trim and Filter Messages
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-2/trim-filter-messages.ipynb]()
+
+Learnt how **filters** and **trimmers** control chat history of the model and also help in saving **token** **usage**. Maintaining **consistent** **message channels** is essential for **reshaping** **chat thread** without breaking **LangGraph** structure.
+
+Changes:
+
+* Changes the topic of research from ocean mammals to Panthera genus
+
+![1760911116547](image/Video_4_Module_2_1.png)
+
+![1760911322526](image/Video_4_Module_2_2.png)
+
+![1760911439057](image/README/1760911439057.png)
+
+![1760911570573](image/README/1760911570573.png)
