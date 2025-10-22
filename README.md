@@ -188,3 +188,19 @@ Changes:
 ![1761165520061](image/Video_5_Module_2_1.png)
 
 ![1761165544483](image/Video_5_Module_2_2.png)
+
+---
+
+### Video 6: Chatbot with Summarizing Messages and External Memory
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-2/chatbot-external-memory.ipynb]()
+
+Learnt how to use **external memory** using **Sqlite** which allows the chatbot to continue the conversation to continue from the previous context without any problems.
+
+Changes:
+
+* Changed the topic of conversation to FC Barcelona
+
+![1761167286289](image/Video_6_Module_2_1.png)
+
+![1761167303501](image/Video_6_Module_2_2.png)
