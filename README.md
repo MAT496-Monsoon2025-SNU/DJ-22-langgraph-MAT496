@@ -2,7 +2,7 @@
 
 ---
 
-## Module 0
+## Module 0: Welcome to the Course
 
 ---
 
@@ -16,7 +16,7 @@ Changes:
 
 ---
 
-## Module 1
+## Module 1: Introduction
 
 ---
 
@@ -113,7 +113,7 @@ Changes:
 
 ---
 
-## Module 2
+## Module 2: State and Memory
 
 ---
 
@@ -169,6 +169,22 @@ Changes:
 
 ![1760911322526](image/Video_4_Module_2_2.png)
 
-![1760911439057](image/README/1760911439057.png)
+![1760911439057](image/Video_4_Module_2_3.png)
 
-![1760911570573](image/README/1760911570573.png)
+![1760911570573](image/Video_4_Module_2_4.png)
+
+---
+
+### Video 5: Chatbot with Summarizing Messages and Memory
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-2/chatbot-summarization.ipynb]()
+
+Learnt how to **summarize** to compress **conversation** **history** as **LangGraph** handles persistence. Conditional edge helps the chatbot to decide when to **refresh** its **context** to avoid processing each message repeatedly.
+
+Changes:
+
+* Changed the topic of conversation to FC Barcelona
+
+![1761165520061](image/Video_5_Module_2_1.png)
+
+![1761165544483](image/Video_5_Module_2_2.png)
