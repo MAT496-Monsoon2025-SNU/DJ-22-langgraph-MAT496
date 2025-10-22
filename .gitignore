@@ -135,6 +135,7 @@ env.bak/
 venv.bak/
 lc-academy-env/
 studio/
+state_db/
 
 # Spyder project settings
 .spyderproject
