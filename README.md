@@ -255,3 +255,17 @@ Changes:
 * Changed the prompt
 
 ![1761575143447](image/Video_3_Module_3.png)
+
+---
+
+### Video 4: Dynamic Breakpoints
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-3/dynamic-breakpoints.ipynb]()
+
+Learnt that **dynamic breakpoints** allow the graph to interrupt itself using **NodeInterrupt()**.
+
+Changes:
+
+* Add dynamic breakpint to check for special characters
+
+![1761576217293](image/Video_4_Module_3.png)
