@@ -204,3 +204,22 @@ Changes:
 ![1761167286289](image/Video_6_Module_2_1.png)
 
 ![1761167303501](image/Video_6_Module_2_2.png)
+
+---
+
+## Module 3: UX and Human-in-the-Loop
+
+---
+
+### Video 1: Streaming
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-3/streaming-interruption.ipynb]()
+
+Learnt how to **stream** real-time updates. **updates** shows updates after calling a node. **values** shows full state after calling a node.
+
+Changes:
+
+* Changed the prompt
+* Used **.astream_events** to stream tokens from **summarize_conversation** 
+
+![1761571996902](image/Video_1_Module_2_1.png)![1761572016907](image/Video_1_Module_2_2.png)![1761572077834](image/Video_1_Module_2_3.png)![1761572216015](image/Video_1_Module_2_4.png)
