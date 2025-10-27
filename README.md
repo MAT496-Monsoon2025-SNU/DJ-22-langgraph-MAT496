@@ -234,8 +234,24 @@ Learnt that **breakpoints** are used to take **approval/debug/edit** from the us
 
 Changes:
 
+* Changed the prompt
 * Added more basic arithmetic tools
 * Added **breakpoint** before assistant node
 * Modified **agent.py** to add **interrupt_before**
 
 ![1761573685979](image/Video_2_Module_3_1.png)![1761574368233](image/Video_2_Module_3_2.png)
+
+---
+
+### Video 3: Editing State and Human Feedback
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-3/edit-state-human-feedback.ipynb]()
+
+Learnt that breakpoints can modify the state of the graph as well. 
+
+Changes:
+
+* Added more basic arithmetic tools
+* Changed the prompt
+
+![1761575143447](image/Video_3_Module_3.png)
