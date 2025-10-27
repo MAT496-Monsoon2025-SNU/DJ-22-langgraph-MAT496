@@ -238,4 +238,4 @@ Changes:
 * Added **breakpoint** before assistant node
 * Modified **agent.py** to add **interrupt_before**
 
-![1761573685979](image/Video_2_Module_3.png)
+![1761573685979](image/Video_2_Module_3_1.png)![1761574368233](image/Video_2_Module_3_2.png)
