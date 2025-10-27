@@ -269,3 +269,18 @@ Changes:
 * Add dynamic breakpint to check for special characters
 
 ![1761576217293](image/Video_4_Module_3.png)
+
+---
+
+### Video 5: Time Travel
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-3/time-travel.ipynb]()
+
+Learnt how to **time‑travel** through checkpoints to **replay**, **fork**, and **edit** agent state for **approval**, **debugging**, and **editing** without rerunning the whole graph.
+
+Changes:
+
+* Changed the prompt
+* Added more basic arithemtic tools
+
+![1761578618807](image/Video_5_Module_3.png)
