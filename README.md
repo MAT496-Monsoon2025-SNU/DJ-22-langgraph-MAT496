@@ -220,7 +220,7 @@ Learnt how to **stream** real-time updates. **updates** shows updates after call
 Changes:
 
 * Changed the prompt
-* Used **.astream_events** to stream tokens from **summarize_conversation** 
+* Used **.astream_events** to stream tokens from **summarize_conversation**
 
 ![1761571996902](image/Video_1_Module_3_1.png)![1761572016907](image/Video_1_Module_3_2.png)![1761572077834](image/Video_1_Module_3_3.png)![1761572216015](image/Video_1_Module_3_4.png)
 
@@ -247,7 +247,7 @@ Changes:
 
 [https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-3/edit-state-human-feedback.ipynb]()
 
-Learnt that breakpoints can modify the state of the graph as well. 
+Learnt that breakpoints can modify the state of the graph as well.
 
 Changes:
 
@@ -284,3 +284,22 @@ Changes:
 * Added more basic arithemtic tools
 
 ![1761578618807](image/Video_5_Module_3.png)
+
+---
+
+## Module 4: Building Your Assistant
+
+---
+
+### Video 1: Parallelization
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-4/parallelization.ipynb]()
+
+Learnt how to use **parallel** nodes and reducers to build **Web Search Agent**. When multiple noders are ran in parallel, **LangGraph** sets default order but custom order can also be set.
+
+Changes:
+
+* Added more nodes
+* Changed the prompt
+
+![1761918313713](image/Video_1_Module_4.png)
