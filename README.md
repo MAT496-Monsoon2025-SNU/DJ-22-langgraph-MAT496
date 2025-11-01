@@ -324,10 +324,25 @@ Changes:
 
 [https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-4/map-reduce.ipynb]()
 
-Learnt how to break down a task into smaller sub-taks and then combine the results of all the parallel sub-tasks.
+Learnt how to break down a task into smaller **sub-taks** and then combine the results of all the parallel sub-tasks.
 
 Changes:
 
 * Changed the prompt to interesting facts
 
 ![1761996524228](image/Video_3_Module_4_1.png)![1761996617425](image/Video_3_Module_4_2.png)
+
+---
+
+### Video 4: Research Assistant
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-4/research-assistant.ipynb]()
+
+Learnt how to combine all the previous learnings to build a **Research Assistant** model. 
+
+Changes:
+
+* Changed the prompt
+* Added in hands-on experience experts for the interview
+
+![1762000749162](image/Video_4_Module_4_1.png)![1762000815085](image/Video_4_Module_4_2.png)![1762001040942](image/Video_4_Module_4_3.png)
