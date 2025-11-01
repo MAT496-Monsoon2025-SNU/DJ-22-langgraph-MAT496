@@ -317,3 +317,17 @@ Changes:
 * Created a node, **final_summary**, to make a final summary of both the parallel processes.
 
 ![1761995517465](image/Video_2_Module_4.png)
+
+---
+
+### Video 3: Map-Reduce
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-4/map-reduce.ipynb]()
+
+Learnt how to break down a task into smaller sub-taks and then combine the results of all the parallel sub-tasks.
+
+Changes:
+
+* Changed the prompt to interesting facts
+
+![1761996524228](image/Video_3_Module_4_1.png)![1761996617425](image/Video_3_Module_4_2.png)
