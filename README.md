@@ -303,3 +303,17 @@ Changes:
 * Changed the prompt
 
 ![1761918313713](image/Video_1_Module_4.png)
+
+---
+
+### Video 2: Sub-Graphs
+
+[https://github.com/MAT496-Monsoon2025-SNU/DJ-22-langgraph-MAT496/blob/main/notebooks/module-4/sub-graph.ipynb]()
+
+Learnt how to build **sub-****graphs** within a graph. Information is passed in-between them using **overlapping keys**. **Tracers** are more readable in **LangSmith UI**.
+
+Changes:
+
+* Created a node, **final_summary**, to make a final summary of both the parallel processes.
+
+![1761995517465](image/Video_2_Module_4.png)
